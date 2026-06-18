@@ -2,6 +2,9 @@
 
 A responsive Currency Converter built using HTML, CSS, and JavaScript.
 
+## Live Demo
+https://rajksri02.github.io/Currency-converter/
+
 ## Features
 
 * Real-time currency conversion
